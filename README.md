@@ -6,6 +6,13 @@ This is a repository for understanding the basic concept of llamaindex.
 LlamaIndex is a data framework for LLM-based applications which benefit from context augmentation. Such LLM systems have been termed as RAG systems, standing for "Retrieval-Augemented Generation". LlamaIndex provides the essential abstractions to more easily ingest, structure, and access private or domain-specific data in order to inject these safely and reliably into LLMs for more accurate text generation.
 # link : https://docs.llamaindex.ai/en/stable/
 
+Llama-Index follows 5 rules
+01. Data Ingestion
+02. Search
+03. Retrieval
+04. Indexing
+05. Ranking and Structuring
+
 
 # Frameworks or Libraries Used:
 - Python
