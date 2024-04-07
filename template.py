@@ -9,7 +9,8 @@ logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s:')
 list_of_files = [
     ".env",
     "requirements.txt",
-    "data/pg_essay.txt"
+    "data/pg_essay.txt",
+    "llama_index.ipynb"
 ]
 
 
